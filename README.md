@@ -29,6 +29,6 @@ I am committed to deepening my expertise in backend technologies and exploring n
 - **LinkedIn:** www.linkedin.com/in/jose-h-henriquez
 
 
-- **Email:**josehilario27@hotmail.com
+- **Email:** josehilario27@hotmail.com
 
 Feel free to connect with me to discuss technology, collaborate on projects, or just chat about software development!
